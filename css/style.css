@@ -37,7 +37,7 @@ section {
     background: linear-gradient(rgba(7, 172, 254, 0.7), rgba(0, 224, 254, 0.7));
     z-index: -1;
 }
-
+/* comment */
 .bg-cover {
     background-position: center;
     background-repeat: no-repeat;
